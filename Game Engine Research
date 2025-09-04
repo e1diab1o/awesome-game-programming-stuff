@@ -1,2 +1,20 @@
 1. Ren'py
-  - 
+  - Create branching stories, save file systems, rollback to previous points in the story, and a variety of scene transitions.
+2. Unity
+  - Known for high-fidelity graphics, it uses C++ and a visual scripting system called Blueprints. 
+3. UNREAL Engine
+  - A versatile engine for 2D and 3D games, using C# scripting. 
+4. Game Maker
+  - GameMaker is a complete development tool for making 2D games, used by indie developers, professional studios, and educators worldwide.
+5. Roblox Studio
+  - Roblox Studio is a free game development tool that enables users to create, script, test, and publish their own interactive games and virtual experiences for the Roblox platform.
+6. GDevelop
+  - Meant for fast game development
+7. Blender
+  - Best for all-in-one 3D modeling, animation, and game development
+8. CryEngine
+  - Best for high-fidelity visuals and creating visually stunning game worlds
+9. Maya
+  -  Best rigging and animation features
+10. PixiJS
+  - Best for browser-based 2D games
